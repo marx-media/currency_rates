@@ -1,5 +1,5 @@
 {
-  "name": "nuxt-app",
+  "name": "currency_rates",
   "type": "module",
   "private": true,
   "packageManager": "pnpm@9.15.4",
