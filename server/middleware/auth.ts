@@ -1,4 +1,4 @@
-import { useApiKeyService } from '../services/api.service'
+import { useApiKeyService } from '../services'
 
 export default defineEventHandler(async (event) => {
   const authorization = getHeader(event, 'Authorization')
