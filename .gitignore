@@ -1,4 +1,5 @@
 # Nuxt dev/build outputs
+.knex
 .output
 .data
 .nuxt

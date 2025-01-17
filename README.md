@@ -17,3 +17,6 @@ curl --location 'http://localhost:3000/api/currency/latest?quote_currencies=CHF'
 curl --location 'http://localhost:3000/api/currency/latest?quote_currencies=USD&quote_currencies=ZAR&quote_currencies=CHF' \
 --header 'Authorization: your_api_key'
 ```
+
+# Planed
+ui for managing api keys?!
